@@ -1,3 +1,5 @@
+This React.js application allows users to search for the current weather conditions of any city worldwide. It fetches data using the SheCodes Weather API.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
