@@ -1,4 +1,4 @@
-This React.js application allows users to search for the current weather conditions of any city worldwide. It fetches data using the SheCodes Weather API.
+This React.js application allows users to search for the current weather conditions of any city worldwide. It fetches data using the OpenWeatherMap Weather API.
 
 # Getting Started with Create React App
 
